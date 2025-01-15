@@ -1,11 +1,11 @@
-# Ignore node_modules folder
+# Node.js
 node_modules/
 
-# Ignore React build files
-build/
+# React build folder
+frontend/build/
 
-# Ignore environment variables
-.env
+# Environment variables
+backend/.env
 
 # System files
 .DS_Store
